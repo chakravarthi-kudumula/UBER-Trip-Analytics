@@ -1,5 +1,5 @@
 # UBER-Trip-Analytics
-# Uber Bookings & Trip Analysis (Power BI)
+# Uber Trip Analytics for Demand Patterns, Revenue Insights & Operational Efficiency - Power BI
 
 ##  Project Overview
 
