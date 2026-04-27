@@ -55,7 +55,7 @@ Analyse Uber trip data to:
 
 ### 1️⃣ Overview Analysis Dashboard
 
-![Overview Analysis](assests/overview_analysis_dashboard.png)
+![Overview Analysis](assets/overview_analysis_dashboard.png)
 
 **Focus Areas:**
 
@@ -70,7 +70,7 @@ Analyse Uber trip data to:
 
 ### 2️⃣ Time Analysis Dashboard
 
-![Time Analysis](assests/time_analysis_dashboard.png)
+![Time Analysis](assets/time_analysis_dashboard.png)
 
 **Focus Areas:**
 
@@ -83,7 +83,7 @@ Analyse Uber trip data to:
 
 ### 3️⃣ Details (Drill-Through) Dashboard
 
-![Details Dashboard](assests/details_drill_through.png)
+![Details Dashboard](assets/details_drill_through.png)
 
 **Focus Areas:**
 
